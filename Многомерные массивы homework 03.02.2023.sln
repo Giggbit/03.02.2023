@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Многомерные массивы homework 03.02.2023", "Многомерные массивы homework 03.02.2023.csproj", "{41925BFF-2F24-4E03-AF30-B6863E0AA3C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41925BFF-2F24-4E03-AF30-B6863E0AA3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41925BFF-2F24-4E03-AF30-B6863E0AA3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41925BFF-2F24-4E03-AF30-B6863E0AA3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41925BFF-2F24-4E03-AF30-B6863E0AA3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D81E1A79-542D-478D-A7B1-BD2F28945DC0}
+	EndGlobalSection
+EndGlobal
